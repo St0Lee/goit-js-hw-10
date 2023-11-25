@@ -1,4 +1,4 @@
-// my API live_KU0Qe9KHnq99rvPgJXQRdi5sSvOfKJruKivdtOLWo0cPlA1aSBCHlEzeEXPKjn3v
+// my API live_KU0Qe9KHnq99rvPgJXQRdi5sSvOfKJruKivdtOLWo0cPlA1aSBCHlEzeEXPKjn3v//
 import { fetchCats, fetchCatByBreed } from "./cat-api.js";
 import Notiflix from 'notiflix';
 import axios from "axios";
